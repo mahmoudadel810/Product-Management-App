@@ -164,7 +164,7 @@ function deleteData(i) {
 function deleteAll() {
   localStorage.clear(); // clear the local storage
   dataPro.splice(0); // delete all the data from array
-  showData(); 
+  showData();  
 }
 
 //TODO - update product
