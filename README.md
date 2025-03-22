@@ -15,11 +15,16 @@ Features :
 
 6- Delete all products at once.
 
+7 - there is validations 
+       you must fill the title , price , category and count less than 100
+
 Installation : 
 
 Clone this repository:
 
 git clone (https://github.com/mahmoudadel810/Product-Management-App.git)
+
+or you can try this in Live Demo : (https://mahmoudadel810.github.io/Product-Management-App/)
 
  then  : Open index.html in your browser.
 
